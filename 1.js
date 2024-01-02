@@ -3,7 +3,7 @@ console.log(40 + 8 + 23 - 10);
 
 ////////////////////////////////////
 // Values and Variables
-console.log("Jonas");
+console.log("Priyanka");
 console.log(23);
 
 let firstName = "Matilda";
