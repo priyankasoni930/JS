@@ -16,7 +16,7 @@ console.log(firstName);
 let jonas_matilda = "JM";
 let $function = 27;
 
-let person = "jonas";
+let person = "Taylor";
 let PI = 3.1415;
 
 let myFirstJob = "Coder";
