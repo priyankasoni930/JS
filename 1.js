@@ -6,7 +6,8 @@ console.log(40 + 8 + 23 - 10);
 console.log("Priyanka");
 console.log(23);
 
-let firstName = "Matilda";
+let firstName = "Taylor";
+let secandName = "Alison";
 
 console.log(firstName);
 console.log(firstName);
