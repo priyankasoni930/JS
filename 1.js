@@ -52,7 +52,7 @@ console.log(typeof null);
 
 // let, const and var
 let age = 18;
-age = 31;
+age = 19;
 
 const birthYear = 1991;
 // birthYear = 1990;
