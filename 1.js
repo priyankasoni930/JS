@@ -55,7 +55,7 @@ let age = 18;
 age = 19;
 
 const birthYear = 2005;
-// birthYear = 1990;
+// birthYear = 2006;
 // const job;
 
 var job = 'programmer';
