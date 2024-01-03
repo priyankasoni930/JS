@@ -51,7 +51,7 @@ console.log(typeof year);
 console.log(typeof null);
 
 // let, const and var
-let age = 30;
+let age = 18;
 age = 31;
 
 const birthYear = 1991;
