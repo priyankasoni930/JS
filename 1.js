@@ -59,4 +59,4 @@ const birthYear = 2005;
 // const job;
 
 var job = 'programmer';
-job = 'teacher'
+job = 'none'
