@@ -11,6 +11,7 @@ let secandName = "Alison";
 
 console.log(firstName);
 console.log(firstName);
+console.log(firstName);
 
 
 // Variable name conventions
