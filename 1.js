@@ -59,5 +59,5 @@ const birthYear = 2005;
 // const job;
 
 var job = 'programmer';
-job = 'none'
+job = 'no'
 console.log(job);
