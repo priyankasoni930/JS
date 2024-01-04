@@ -14,7 +14,7 @@ console.log(firstName);
 console.log(firstName);
 
 // Variable name conventions
-let jonas_matilda = "JM";
+let  priyanka_soni = "PS";
 let $function = 27;
 
 let person = "Taylor";
