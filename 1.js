@@ -62,3 +62,5 @@ const birthYear = 2005;
 var job = 'programmer';
 job = 'none'
 console.log(job);
+
+lastName = 'Schmedtmann';
