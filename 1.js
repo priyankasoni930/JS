@@ -64,3 +64,4 @@ job = 'none'
 console.log(job);
 
 lastName = 'Soni';
+console.log(lastName);
