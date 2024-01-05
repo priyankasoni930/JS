@@ -60,7 +60,7 @@ const birthYear = 2005;
 // const job;
 
 var job = 'programmer';
-job = 'none'
+job = 'none';
 console.log(job);
 
 lastName = 'Soni';
