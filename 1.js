@@ -65,3 +65,7 @@ console.log(job);
 
 lastName = 'Soni';
 console.log(lastName);
+
+////////////////////////////////////
+// Basic Operators
+// Math operators
