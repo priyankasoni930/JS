@@ -71,3 +71,4 @@ console.log(lastName);
 // Math operators
 const now = 2037;
 const agePriyanka = now - 2005;
+const ageTaylor = now - 1989;
