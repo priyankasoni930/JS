@@ -79,3 +79,4 @@ console.log(agePriyanka * 2, ageTaylor / 10, 2 ** 3);
 // 2 ** 3 means 2 to the power of 3 = 2 * 2 * 2
 
 let firstName = "Priyanka";
+const lastName = "Soni";
