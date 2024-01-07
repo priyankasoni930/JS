@@ -6,12 +6,12 @@ console.log(40 + 8 + 23 - 10);
 console.log("Priyanka");
 console.log(23);
 
-let firstName = "Taylor";
-let secandName = "Alison";
+// let firstName = "Taylor";
+// let secandName = "Alison";
 
-console.log(firstName);
-console.log(firstName);
-console.log(firstName);
+// console.log(firstName);
+// console.log(firstName);
+// console.log(firstName);
 
 
 // Variable name conventions
@@ -63,8 +63,8 @@ var job = 'programmer';
 job = 'none';
 console.log(job);
 
-lastName = 'Soni';
-console.log(lastName);
+// lastName = 'Soni';
+// console.log(lastName);
 
 ////////////////////////////////////
 // Basic Operators
