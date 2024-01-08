@@ -83,3 +83,4 @@ const lastName = "Soni";
 console.log(firstName + " " + lastName);
 
 // Assignment operators
+let x = 10 + 5; // 15
