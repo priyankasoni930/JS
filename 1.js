@@ -81,3 +81,5 @@ console.log(agePriyanka * 2, ageTaylor / 10, 2 ** 3);
 let firstName = "Priyanka";
 const lastName = "Soni";
 console.log(firstName + " " + lastName);
+
+// Assignment operators
