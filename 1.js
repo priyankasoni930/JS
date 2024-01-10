@@ -89,3 +89,5 @@ x *= 4; // x = x * 4 = 100
 x++; // x = x + 1
 x--;
 console.log(x);
+
+//comparison operator
