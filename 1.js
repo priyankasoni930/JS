@@ -93,3 +93,5 @@ console.log(x);
 //comparison operator
 console.log(agePriyanka > ageTaylor);
 console.log(agePriyanka >= 18);
+
+const isFullAge = ageSarah >= 18;
