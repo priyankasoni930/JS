@@ -94,4 +94,4 @@ console.log(x);
 console.log(agePriyanka > ageTaylor);
 console.log(agePriyanka >= 18);
 
-const isFullAge = ageSarah >= 18;
+const isFullAge = agePriyanka >= 18;
