@@ -21,7 +21,7 @@ let $function = 27;
 let person = "Taylor";
 let PI = 3.1415;
 
-let myFirstJob = "Coder";
+let myFirstJob = "null";
 let myCurrentJob = "null";
 
 let job1 = "programmer";
