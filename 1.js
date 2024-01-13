@@ -22,7 +22,7 @@ let person = "Taylor";
 let PI = 3.1415;
 
 let myFirstJob = "Coder";
-let myCurrentJob = "Teacher";
+let myCurrentJob = "null";
 
 let job1 = "programmer";
 let job2 = "teacher";
